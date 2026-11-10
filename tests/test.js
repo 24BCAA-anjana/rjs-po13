@@ -86,3 +86,7 @@ console.log("--------------------------------");
 if (score < 6) {
     process.exit(1);
 }
+
+if (score < 6) {
+    process.exit(1);
+}
